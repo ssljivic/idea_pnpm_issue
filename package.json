@@ -1,0 +1,13 @@
+{
+  "name": "ide_pnpm_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx nx run-many --target=build --all"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "nx": "^15.4.1"
+  }
+}
